@@ -54,7 +54,7 @@ A micro-adventure is an adventure that is short, simple, local, and cheap—yet 
 
 ## How to Get Started
 
-1.  **Download:** Save the `micro-adventure.html` file from this folder.
+1.  **Download:** Save the `microadventure.html` file from this folder.
 2.  **Open:** Open the file in any modern web browser (like Chrome, Firefox, or Safari).
 3.  **Explore:** Use the "Suggest," "Browse," and "My Adventures" tabs to plan your next outing!
 
