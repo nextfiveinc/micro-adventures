@@ -76,4 +76,4 @@ The format is simple:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file in the root of the repository for details.
+GNU General Public License v3.0 or later. See [COPYING](COPYING) for more details.
